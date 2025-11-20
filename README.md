@@ -11,6 +11,8 @@ Merlin EBird ID Phase 1:
 * Extract Regions of Interest: Extract the snowy egret from the image using semantic segmentation using the Unet Segmentation Tensorflow Model
 * Binary Classification: Identify the regions of the image if pixel is snowy egret or not through Support Vector Machine (SVN) algorithm
 
+
+Bonus Feature for possible future development...
 INaturalist Phase 2:
 * Only 1 cat and same cat
 * Extract Regions of Interest: Extract the cat from the image using semantic segmentation using the Unet Segmentation Tensorflow Model
