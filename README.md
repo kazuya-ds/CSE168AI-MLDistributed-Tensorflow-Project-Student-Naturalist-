@@ -7,13 +7,13 @@ We are currently working on managing to reverse engineer Merlin Bird ID's as the
 
 
 Merlin EBird ID Phase 1:
-* 1st task:
+1st task:
 * 60 images of same snowy egret
 * Extract Regions of Interest: Extract the snowy egret from the image using semantic segmentation using the Unet Segmentation Tensorflow Model
 * Binary Classification: Identify the regions of the image if pixel is snowy egret or not through Support Vector Machine (SVN) algorithm
 
 INaturalist Phase 2:
-* 1st task:
+1st task:
 * Only 1 cat and same cat
 * Extract Regions of Interest: Extract the cat from the image using semantic segmentation using the Unet Segmentation Tensorflow Model
 * Binary Classification: Identify the regions of the image if pixel is cat or not through Support Vector Machine (SVN) algorithm
