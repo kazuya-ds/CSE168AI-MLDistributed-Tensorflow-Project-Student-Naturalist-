@@ -1,5 +1,5 @@
 # CSE168AI-MLDistributed-Tensorflow-Project-Student-Naturalist-
-This is a project with Amy Chan, Javier Quiroz Aldana, and Jennifer Lugo from UC Merced's CSE168 Distributed Systems class taught by Professor Xiaoyi Lu lab part two using a custom dataset and custom tensorflow model.
+This is a project with Amy Chan, Javier Quiroz Aldana, ish and Jennifer Lugo from UC Merced's CSE168 Distributed Systems class taught by Professor Xiaoyi Lu lab part two using a custom dataset and custom tensorflow model.
 
 The goal of this project is to recreating [iNaturalist's Computer Vision Demo](https://www.inaturalist.org/pages/computer_vision_demo) using the information provided through this website by  using instance segmentation and semantic segmentation (2 approaches) to conduct object detection and image classification of wildlife. 
 
